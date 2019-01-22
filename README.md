@@ -1,2 +1,2 @@
-# hazen_metagenome_publication
-The Hazen Metagenome publication repositiory contains scripts, and supplementary data files. 
+# Hazen Metagenome Publication
+This repositiory contains scripts and supplementary data files used in the following publication:  
