@@ -1,5 +1,5 @@
 # Hazen Metagenome Publication
-This repositiory contains scripts and supplementary data files used in the following publication: **Climate change lowers diversity and functional potential of microbes in Canada’s high Arctic**.   
+This repositiory contains scripts and supplementary data files used in the following publication: "**Climate change lowers diversity and functional potential of microbes in Canada’s high Arctic**".   
 
 ## Summary of Files 
 1) Two tree files (bacteria and archaea) for the reconstructed and GTDB genomes
