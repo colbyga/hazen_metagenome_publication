@@ -1,4 +1,4 @@
-# Hazen 300 Metagenomes Publication
+# Hazen 300 Arctic Metagenomes Publication
 This repositiory contains scripts and supplementary data files used in the following publication: "**Warming climate is reducing the diversity of dominant microbes in the largest High Arctic lake**".   
 
 ## Summary of Files 
