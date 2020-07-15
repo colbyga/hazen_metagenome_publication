@@ -3,7 +3,7 @@ This repositiory contains scripts and supplementary data files used in the follo
 
 ## Summary of Files 
 1) Two tree files (bacteria and archaea) for the reconstructed and GTDB genomes
-     - can request alignment files if needed, see methods for details on alignment
+     - Alignment files have been concatenated and trimmed with trimmal, see methods for details on alignment
 2) Full taxonomy tree files for both bacteria and archaea  (PDF files) 
 3) Scripts that were used throughout the data analysis
      
